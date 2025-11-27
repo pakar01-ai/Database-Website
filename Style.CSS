@@ -2,3 +2,22 @@ body
 {
     background-color: darkolivegreen;
 }
+
+img{
+    width:50%;
+}
+
+ol, ul{
+
+    width: 40%;
+    display: inline-block;color: darkgrey;
+}
+
+table{
+    border: 2px; color: bisque;
+}
+
+th,td{
+
+
+}
